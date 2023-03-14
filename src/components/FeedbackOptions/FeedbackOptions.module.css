@@ -1,0 +1,10 @@
+.buttons {
+  padding: 20px 0;
+  display: flex;
+  gap: 20px;
+}
+.buttons > button {
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 8px;
+}
